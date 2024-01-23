@@ -1,0 +1,74 @@
+
+        .cars{
+            background-color: lightslategrey;
+            border: 1px solid black;
+                margin: 20px;
+        }
+        .fruits{
+            background-color: powderblue;
+            border: 1px solid black;
+            margin: 20px;
+        }
+         .apples{
+            background-color: powderblue;
+            border: 1px solid black;
+            margin: 20px;
+        }
+        .FRUITS{
+            background-color: lightslategrey;
+            border: 1px solid black;
+            margin: 20px;
+        }
+        body{
+            background-image:url("assets/images/0bbc323fde15a3565ef673807ddf4eb0.jpg");
+        }
+             ul{
+          list-style-type: none;
+            padding: 0px;
+            margin: 20px;
+            overflow: hidden;
+            background-color: plum;
+                 border-radius: 20px;
+        }
+        li{
+             float: left;
+            color: lightslategrey;
+
+        }
+        li,a{
+              padding: 15px;
+            display: block;
+            text-decoration: none;
+
+
+
+        }
+        h1{
+            color: lightslategrey;
+            text-align: center;
+        }
+        li,a:hover{
+            color: cornflowerblue;
+        }
+        .large{
+            color: orangered;
+            text-align: center;
+            font-size: 20px;
+
+
+        }
+        #divs{
+            text-align: center;
+            font-weight: bolder;
+            font-family: cursive;
+        }
+        #computers{
+            background-color: powderblue;
+            border: 1px solid black;
+            margin: 20px;
+            text-align: center;
+            color: orangered;
+            font-size: 20px;
+        }
+
+

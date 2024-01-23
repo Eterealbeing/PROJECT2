@@ -1,0 +1,78 @@
+
+   table,td,th{
+       border:1px solid black;
+       border-collapse: collapse;
+   }
+   body{
+
+       background-image: url("assets/images/30b61a5e83fef5fc070fe5f17bbccaeb.jpg");
+   }
+   h1{
+       text-align: center;
+   }
+   tr:nth-child(even){
+        background-color:rgba(150,212,212,0.4);
+   }
+   td:nth-child(even),th:nth-child(even){
+       background-color:rgba(150,212,212,0.4);
+   }
+   table{
+       width: 100%;
+       text-align: left;
+   }
+   th{
+       font-family: AppleGothic;
+       color: cadetblue;
+       font-size: 20px;
+   }
+   #one{
+       font-family:Mshtakan;
+   }
+   #sec{
+       font-family:monospace;
+   }
+   #third{
+       font-family:"Comic Sans MS";
+   }
+   #fourth{
+       font-family:Geneva;
+   }
+   #fifth{
+       font-family: cursive;
+   }
+     ul{
+          list-style-type: none;
+            padding: 0px;
+            margin: 20px;
+            overflow: hidden;
+            background-color: plum;
+          border-radius: 20px;
+        }
+        li{
+             float: left;
+            color: lightslategrey;
+
+        }
+        li,a{
+              padding: 15px;
+            display: block;
+            text-decoration: none;
+
+
+        }
+        h1{
+            color: lightslategrey;
+            text-align: center;
+        }
+        li,a:hover{
+            color: cornflowerblue;
+        }
+        tr:hover{background-color: aquamarine;
+        }
+
+
+
+
+
+
+
